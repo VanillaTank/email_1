@@ -1,0 +1,104 @@
+body {
+    background-color: #d7d9f7;
+    padding: 20px 0;
+    margin: 0 auto;
+}
+table {
+    max-width: 600px;
+    min-width: 320px;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0 auto;
+    padding: 0;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+}
+td {
+    margin: 0;
+    padding: 0;
+}
+.wrap-table-email,
+.table-content,
+.table-footer {
+    background-color: #eeeeee;
+}
+img {
+    outline: none;
+    -ms-interpolation-mode: bicubic;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+.table-header {
+    background-color: #ffff00;
+}
+.td-header {
+    font-family: Arial, Verdana, sans-serif;
+    color: #333333;
+    font-size: 16px;
+    line-height: 22px;
+    mso-line-height-rule: exactly;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: normal;
+    text-align: center;
+    padding: 15px 15px;
+}
+.content-img {
+    width: 100%;
+}
+.td-content-text {
+    font-family: Arial, Verdana, sans-serif;
+    color: #333333;
+    font-size: 14px;
+    line-height: 20px;
+    mso-line-height-rule: exactly;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    text-align: left;
+    padding: 15px 15px;
+}
+.td-content-btn {
+    text-align: center;
+    padding: 20px 0 30px;
+}
+.content-btn {
+    background-color: #ff0000;
+    font-family: Arial, Verdana, sans-serif;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 22px;
+    mso-line-height-rule: exactly;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    padding: 10px 15px;
+}
+.td-social-title {
+    font-family: Arial, Verdana, sans-serif;
+    color: #333333;
+    font-size: 16px;
+    line-height: 22px;
+    mso-line-height-rule: exactly;
+    font-style: italic;
+    font-weight: normal;
+    letter-spacing: normal;
+    text-align: center;
+    padding: 20px 0 5px;
+}
+.table-social-btns {
+    width: 240px;
+}
+.td-social-btn {
+    width: 80px;
+    padding: 0 0 20px 0;
+}
+.social-img {
+    width: 50px;
+    height: 50px;
+}
